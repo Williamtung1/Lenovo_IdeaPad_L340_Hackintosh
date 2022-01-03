@@ -30,7 +30,15 @@ IdeaPad L340 Gaming specification:
 
 ## Wifi
 
-If you have the Realtek one and want to use Wifi or Bluetooth, please use USB tethering, ethernet or buy a new B
+If you have Realtek card and want to use Wifi or Bluetooth, please use USB tethering, ethernet or buy a new native support Broadcom card. If you have Intel card, you can use the kext by [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm/releases) and enable it using this [guide](https://openintelwireless.github.io/itlwm/).
+
+## For trackpad
+
+Some reasons prevented trackpad work on __interrupt mode__. I think it is a DSDT bug. So you must run trackpad on __Polling mode__. The latest VoodooI2CSynaptic.kext does support __Polling mode__.
+
+Make sure that you changed __device name__ in Info.plist file of VoodooI2CSynaptic.kext to ```your trackpad code```.
+
+__Note :__ If your trackpad don't work, please make sure this is run in Polling mode. For more detail, visit [here](https://voodooi2c.github.io/#Polling%20Mode/Polling%20Mode)
 
 ## Enable HiDPI
 
