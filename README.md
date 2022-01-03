@@ -6,16 +6,16 @@ IdeaPad L340 Gaming specification:
 
 | Type | Name | Note |
 | --- | --- | --- |
-| CPU | Intel Core i5 9300H | |
+| CPU | 2.4 GHz Quad-Core Intel Core i5 9300H | |
 | Graphics | Intel UHD Graphics 630 | Disabled GTX 1050 |
 | Display | 15.6in FullHD |
 | RAM | 8GB or 16GB DDR4 |
-| Wifi | Realtek 
-| Bluetooth | Realtek
+| Wifi | Realtek or Intel |
+| Bluetooth | Realtek or Intel |
 | NVME SSD| Samsung SSD 970 EVO Plus 250GB |
 | SATA Disk | WDC WD10SPZX-24Z10 1TB |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C |
-| Trackpad | Elan 628 |
+| Trackpad | Elan or Synaptic |
 | Audio | Realtek ALC 257 |
 | BIOS version| BGCN28WW - BGCN29WW |
 | macOS version| macOS Monterey |
@@ -27,6 +27,10 @@ IdeaPad L340 Gaming specification:
 - Wifi (No kexts to fix Realtek card) 
 - Bluetooth (same as above)
 - Trackpad (I'm just a student do not know much about editing DSDT)
+
+## Wifi
+
+If you have the Realtek one and want to use Wifi or Bluetooth, please use USB tethering, ethernet or buy a new B
 
 ## Enable HiDPI
 
