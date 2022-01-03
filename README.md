@@ -38,3 +38,5 @@ On the default resolution (1920x1080), text is fine to read my experience. If yo
 - [acidanthera](https://github.com/acidanthera) for providing Opencore, kexts and the drivers.
 - [alexandred](https://github.com/alexandred) for providing VoodooI2C
 - [xzhih](https://github.com/xzhih/one-key-hidpi) who helps enable HiDPI easier.
+- [dortania](https://github.com/dortania) for providing the guide and SSDT.
+- [CorpNewt](https://github.com/corpnewt) for his useful tools.
