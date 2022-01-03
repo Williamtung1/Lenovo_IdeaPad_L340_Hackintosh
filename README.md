@@ -8,7 +8,7 @@ IdeaPad L340 Gaming specification:
 | --- | --- | --- |
 | CPU | Intel Core i5 9300H | |
 | Graphics | Intel UHD Graphics 630 | Disabled GTX 1050 |
-| Display | 15.6in FullHD | |
+| Display | 15.6in FullHD |
 | RAM | 8GB or 16GB DDR4 |
 | Wifi | Realtek 
 | Bluetooth | Realtek
@@ -24,7 +24,7 @@ IdeaPad L340 Gaming specification:
 
 - GTX 1050 (Disabled)
 - HDMI Port (it was connected with GTX 1050)
-- Wifi (No kexts to fix Realtek card)
+- Wifi (No kexts to fix Realtek card) 
 - Bluetooth (same as above)
 - Trackpad (I'm just a student do not know much about editing DSDT)
 
