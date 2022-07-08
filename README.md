@@ -12,7 +12,7 @@ IdeaPad L340 Gaming specification:
 | RAM | 8GB or 16GB DDR4 |
 | Wifi | Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC or Intel |
 | Bluetooth | Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC or Intel |
-| NVME SSD| Samsung SSD 970 EVO Plus 250GB |
+| NVME SSD| Samsung PM 981 250GB |
 | SATA Disk | WDC WD10SPZX-24Z10 1TB |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C |
 | Trackpad | Elan or Synaptic |
