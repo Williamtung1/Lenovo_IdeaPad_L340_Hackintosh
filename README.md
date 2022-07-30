@@ -37,8 +37,7 @@ If you have Realtek card and want to use Wifi or Bluetooth, please use USB tethe
 
 ## Enable HiDPI
 
-On the default resolution (1920x1080), text is fine to read my experience. If you want to make the text bigger, you need to enable HiDPI
-[one-key-hidpi](https://github.com/xzhih/one-key-hidpi). If you change text size with changing resolution without enable HiDPI, text is blurry.
+If you want to make the text bigger, you need to enable HiDPI [one-key-hidpi](https://github.com/xzhih/one-key-hidpi). If you change text size with changing resolution without enable HiDPI, text is blurry.
 
 ## Credits
 - Apple Inc. for providing macOS
