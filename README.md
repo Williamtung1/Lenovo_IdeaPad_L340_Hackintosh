@@ -15,7 +15,7 @@ IdeaPad L340 Gaming specification:
 | NVME SSD| Samsung PM991 250GB |
 | SATA Disk | WDC WD10SPZX-24Z10 1TB |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C |
-| Trackpad | Elan0626 |
+| Trackpad | Elan0626 | force-polling is needed |
 | Audio | Realtek ALC 257 |
 | macOS version| macOS Ventura |
 
@@ -30,10 +30,7 @@ IdeaPad L340 Gaming specification:
 ## Wifi
 
 If you have Realtek card and want to use Wifi or Bluetooth, please use USB tethering, ethernet or buy a new native support Broadcom card. If you have Intel card, you can use the kext by [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm/releases) and enable it using this [guide](https://openintelwireless.github.io/itlwm/).
-
-## For trackpad
-  For those who have Elan0626 touchpad, you MUST force polling 
-  
+ 
 ## Enable HiDPI
 
 If you want to make the text bigger, you need to enable HiDPI [one-key-hidpi](https://github.com/xzhih/one-key-hidpi). If you change text size with changing resolution without enable HiDPI, text is blurry.
