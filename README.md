@@ -25,7 +25,7 @@ IdeaPad L340 Gaming specification:
 - HDMI Port (it was connected with GTX 1050)
 - Wifi (not supported by macOS) 
 - Bluetooth (same as above)
-~~- Trackpad~~ I have finally worked out the way to patch it
+- ~~Trackpad~~ I have finally worked out the way to patch it
 
 ## Wifi
 
