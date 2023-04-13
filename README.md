@@ -7,7 +7,7 @@ IdeaPad L340 Gaming specification:
 | Type | Name | Note |
 | --- | --- | --- |
 | CPU | 2.4 GHz Quad-Core Intel Core i5 9300H | |
-| Graphics | Intel UHD Graphics 630 | GTX 1050 is disabled |
+| Graphics | Intel UHD Graphics 630 | GTX 1060 is disabled |
 | Display | 15.6in FullHD |
 | RAM | 8GB DDR4 |
 | Wifi | Realtek 8822BE WLan |
